@@ -141,15 +141,4 @@ Do not push directly to `main`. All changes go through a Pull Request.
 
 ---
 
-## Team
-
-| Name | Role |
-|------|------|
-|      | Frontend — Next.js, Tailwind CSS |
-|      | Backend — NestJS, REST APIs |
-|      | Database — PostgreSQL, Prisma |
-|      | Integration and testing |
-
----
-
-*Built as a mini project for academic purposes.*
+*Built as a  project for academic purposes.*
